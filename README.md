@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently learning to code @ Northcoders
+Recently graduated 13-week SWD bootcamp @ Northcoders and looking for my first role within the tech industry!
 
 <!--
 **rushRobBlob/rushRobBlob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
